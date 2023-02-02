@@ -26,6 +26,10 @@
   
 }
 
+.grid-container > button:hover{
+  background-color: rgba(226, 252, 255, 0.8);
+}
+
 button:disabled,
 button[disabled]{
   color: black;
